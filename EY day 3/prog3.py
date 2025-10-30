@@ -1,0 +1,12 @@
+import streamlit as st
+st.set_page_config(page_title="My first page", page_icon=":lion:", layout="wide")
+st.title("Faculty Details")
+st.header("Name: Ch. Divya")
+st.subheader("Department:CSE")
+st.subheader("College: TKR Engineering College")
+st.subheader("location: Hyderabad")
+st.write("Experience: 10 years")
+st.write("Skills : Python, Java, C++")
+st.write("Hobbies: Reading, Travelling, Cooking")
+st.write("Contact: talla.divyaa@gmail.com")
+st.write("LinkedIn: https://www.linkedin.com/in/divya-ch-123456789")

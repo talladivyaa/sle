@@ -1,0 +1,10 @@
+import streamlit as st
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.text("hello world")
+st.image("./images/image.png")
